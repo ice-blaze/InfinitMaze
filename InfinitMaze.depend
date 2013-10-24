@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1353275766 source:d:\sdl projects\infinitmaze\main.cpp
+	<iostream>
+	<SDL.h>
+	"Fonct_Main.h"
+	"Timer.h"
+	"Maze.hpp"
+
+1346050349 source:d:\sdl projects\infinitmaze\maze.cpp
+	"Maze.hpp"
+	<stdlib.h>
+	<time.h>
+
+1345901989 d:\sdl projects\infinitmaze\maze.hpp
+	<vector>
+
+1345159637 source:d:\sdl projects\infinitmaze\timer.cpp
+	"Timer.h"
+	<SDL.h>
+
+1345155162 d:\sdl projects\infinitmaze\timer.h
+
+1353275117 source:d:\sdl projects\infinitmaze\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Fonct_Main.h"
+
+1334863632 d:\sdl projects\infinitmaze\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1346050349 source:d:\git repos\game_stock\infinitmaze\maze.cpp
+	"Maze.hpp"
+	<stdlib.h>
+	<time.h>
+
+1345901989 d:\git repos\game_stock\infinitmaze\maze.hpp
+	<vector>
+
+1345159637 source:d:\git repos\game_stock\infinitmaze\timer.cpp
+	"Timer.h"
+	<SDL.h>
+
+1345155162 d:\git repos\game_stock\infinitmaze\timer.h
+
+1382613008 source:d:\git repos\game_stock\infinitmaze\main.cpp
+	<iostream>
+	<SDL.h>
+	"Fonct_Main.h"
+	"Timer.h"
+	"Maze.hpp"
+
+1334863632 d:\git repos\game_stock\infinitmaze\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1353275117 source:d:\git repos\game_stock\infinitmaze\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Fonct_Main.h"
+
